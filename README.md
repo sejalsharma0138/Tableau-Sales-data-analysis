@@ -4,4 +4,4 @@ Tableau Public link-https://public.tableau.com/views/SalesDataAnalysis_165770814
 Data analysis on demo sql sales data of an imaginary company.
 Integrated reports like sales amount vs product, sales growth trend with time
 , top-selling products, top buying customers, etc to create a live dashboard using Tableau desktop.
-![My dashboard](root/Dashboard 1.svg)
+![My dashboard](main/Dashboard 1.svg)
